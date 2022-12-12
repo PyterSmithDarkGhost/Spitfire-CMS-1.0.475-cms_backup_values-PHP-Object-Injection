@@ -1,0 +1,1 @@
+O Spitfire CMS versão 1.0.475 é propenso a uma vulnerabilidade de injeção de objeto PHP devido ao uso inseguro da função unserialize(). Um invasor em potencial, autenticado, pode explorar essa vulnerabilidade enviando solicitações especialmente criadas para o aplicativo da Web contendo entrada serializada maliciosa.
